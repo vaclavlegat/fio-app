@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FioApp</string>
+    <string name="tx_date">Datum zaúčtování</string>
+    <string name="tx_account">Protiúčet</string>
+    <string name="tx_bank_name">Název banky</string>
+    <string name="tx_author">Provedl</string>
+    <string name="tx_user_id">Uživatelská identifikace</string>
+    <string name="tx_ks">KS</string>
+    <string name="tx_vs">VS</string>
+    <string name="tx_ss">SS</string>
+    <string name="tx_message_for_recipient">Zpráva pro příjemce</string>
+    <string name="tx_comment">Komentář</string>
+    <string name="tx_idp">ID pokynu</string>
+    <string name="tx_id">ID pohybu</string>
+</resources>

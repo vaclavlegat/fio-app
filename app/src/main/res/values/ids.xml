@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item type="id" name="progress_bar"/>
+    <item type="id" name="account"/>
+    <item type="id" name="balance"/>
+    <item type="id" name="type"/>
+    <item type="id" name="amount"/>
+    <item type="id" name="currency"/>
+
+</resources>
